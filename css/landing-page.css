@@ -36,7 +36,7 @@ h6 {
     padding-bottom: 50px;
     text-align: center;
     color: #f8f8f8;
-    background: #99ccff;
+    background: #A7DBD8;
     background-size: cover;
 }
 
@@ -98,7 +98,7 @@ h6 {
 
 .content-section-a {
     padding: 50px 0;
-    background-color: #A7DBD8;
+    background-color: #f8f8f8;
 }
 
 .content-section-b {
@@ -166,7 +166,7 @@ h6 {
 
 footer {
     padding: 50px 0;
-    background-color: #A7DBD8;
+    background-color: #f8f8f8;
 }
 
 p.copyright {
